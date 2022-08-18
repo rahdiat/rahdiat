@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rahdiat
 - 👀 I’m interested in Technology.
-- 🌱 I’m currently learning Python and Data Science
+- 🌱 I’m currently learning Mobile apps and Data Science
 - 💞️ I’m looking for Job or Freelance. 
 - 📫 How to reach me rifqy.ahdiat.a@gmail.com
 
