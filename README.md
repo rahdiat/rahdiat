@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rahdiat
 - 👀 I’m interested in Technology.
 - 🌱 I’m currently learning Python and Data Science
-- 💞️ I’m looking to collaborate on Google, GoJek, and the startup with bright idea. 
+- 💞️ I’m looking for Job or Freelance. 
 - 📫 How to reach me rifqy.ahdiat.a@gmail.com
 
 <!---
