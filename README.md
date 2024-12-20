@@ -1,6 +1,6 @@
 # Hi there, I'm Rahdiat 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a keen interest in Programing and Machine learning. I enjoy working on Export and Import Spesialist but i have constantly strive to improve my skills and learn new technologies.
+Welcome to my GitHub profile! I'm a passionate developer with a keen interest in Programing and Machine learning. I enjoy playing dota 2 but i have constantly strive to improve my skills and learn new technologies.
 
 ## 🚀 About Me
 
@@ -27,14 +27,13 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 🏆 Achievements
 
-- [Any notable achievements, awards, or recognitions]
-- [Open source contributions you're proud of]
+- Create Digital Work Instruction
 
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rahdiat)
-[![Twitter](https://img.shields.io/badge/-Twitter-black?style=flat-square&logo=twitter)](https://twitter.com/rahdiat)
-[![Email](https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail)](mailto:rahdiat@example.com)
+[![Twitter](https://img.shields.io/badge/-Twitter-black?style=flat-square&logo=twitter)](https://twitter.com/r_ahdiat)
+[![Email](https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail)](mailto:rifqy.ahdiat.a@gmail.com)
 
 ## ❤️ Support Me
 
