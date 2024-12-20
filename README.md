@@ -4,10 +4,10 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning [Technologies or Skills You're Learning]
-- 👯 I’m looking to collaborate on [Types of Projects You Want to Collaborate On]
-- 💬 Ask me about [Your Areas of Expertise]
-- 📫 How to reach me: [Your Contact Information, e.g., Email, LinkedIn]
+- 🌱 I’m currently learning Machine Learning
+- 👯 I’m looking to collaborate on open source machine learning
+- 💬 Ask me about machine learning, website or apps builder
+- 📫 How to reach me: rifqy.ahdiat.a@gmail.com
 
 ## 🛠️ Languages and Tools
 
